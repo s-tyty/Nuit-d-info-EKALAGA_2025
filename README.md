@@ -1,100 +1,91 @@
-#Night of Information 2025 – Team E-kalaga
+## Nuit de l'Info 2025 – Équipe E-kalaga
 
-## Project Presentation
+## Présentation du projet
 
-Our **E-kalaga** team is composed of 12 first-year Computer Science students at the IUT of Paris – Rives de Seine.
+Notre équipe **E-kalaga** est composée de 12 étudiants en première année de BUT Informatique à l'IUT de Paris – Rives de Seine.
 
-- [@aminaelhouari](https://github.com/aminaelhouari)
-- [@la-tiags](https://github.com/la-tiags)
-- [@eth3ral0](https://github.com/eth3ral0)
-- [@Kenza-Mkd](https://github.com/Kenza-Mkd)
-- [@sittinianeaditya-ai](https://github.com/sittinianeaditya-ai)
-- [@ahmed-muhammad7](https://github.com/ahmed-muhammad7)
-- [@leonorze](https://github.com/leonorze)
-- Hadja D.
-- Yassa A.
-- Yanis T.
-- [@O-Amine](https://github.com/O-Amine)
-- [@EdanPL](https://github.com/EdanPL)
+* [@aminaelhouari](https://github.com/aminaelhouari?utm_source=gemini)
+* [@la-tiags](https://github.com/la-tiags?utm_source=gemini)
+* [@eth3ral0](https://github.com/eth3ral0?utm_source=gemini)
+* [@Kenza-Mkd](https://github.com/Kenza-Mkd?utm_source=gemini)
+* [@sittinianeaditya-ai](https://github.com/sittinianeaditya-ai?utm_source=gemini)
+* [@ahmed-muhammad7](https://github.com/ahmed-muhammad7?utm_source=gemini)
+* [@leonorze](https://github.com/leonorze?utm_source=gemini)
+* Hadja D.
+* Yassa A.
+* Yanis T.
+* [@O-Amine](https://github.com/O-Amine?utm_source=gemini)
+* [@EdanPL](https://github.com/EdanPL?utm_source=gemini)
 
-As part of **Night of Information 2025**, we developed a fun web platform to raise awareness among schools about **Inclusive, Responsible, and Sustainable (NIRD)** digital technology.
+Dans le cadre de la **Nuit de l'Info 2025**, nous avons développé une plateforme web ludique pour sensibiliser les écoles au numérique **Inclusif, Responsable et Durable (NIRD)**.
 
-## General Site Concept
+## Concept général du site
 
-The site takes the form of an **interactive adventure** in several chapters, presented as a *storyline* where the user explores a "sick" school filled with slow and underoptimized PCs.
+Le site prend la forme d'une **aventure interactive** en plusieurs chapitres, présentée sous forme de *scénario* où l'utilisateur explore une école "malade", remplie de PC lents et sous-optimisés.
 
-The goal is to transform this outdated school, dependent on Big Tech, into a **NIRD** school by making the right digital choices along the way.
+L'objectif est de transformer cette école vieillissante, dépendante des géants de la tech, en une école **NIRD** en faisant les bons choix numériques tout au long du parcours.
 
-The main character, **Nirdy**, serves as a guide throughout the story and accompanies the user in their decisions.
+Le personnage principal, **Nirdy**, sert de guide tout au long de l'histoire et accompagne l'utilisateur dans ses décisions.
 
-## Chapter-Based Path
+## Parcours par chapitres
 
-The selection page offers 5 chapters, each corresponding to a specific situation:
+La page de sélection propose 5 chapitres, chacun correspondant à une situation spécifique :
 
-- **Chapter 1 – The School of Tomorrow**: functional computers but "too old" for Windows 11 due to the lack of TPM.
+* **Chapitre 1 – L'école de demain** : des ordinateurs fonctionnels mais "trop vieux" pour Windows 11 en raison de l'absence de puce TPM.
+* **Chapitre 2 – Les ordinateurs ralentissent** : les professeurs se plaignent que les machines mettent 10 minutes à démarrer.
+* **Chapitre 3 – Petit tour à la bibliothèque** : Pour la bibliothèque, le besoin principal est la navigation web et le traitement de texte sur des PC vieillissants.
+* **Chapitre 4 – Destination : Le sous-sol** : Découverte de PC vieux de 12 ans stockés au sous-sol, avec la question : "Poubelle ou Réemploi ?".
+* **Chapitre 5 – À travers le continent** : Réflexion sur la souveraineté numérique européenne et l'utilisation de solutions locales face aux services américains.
 
-- **Chapter 2 – The Computers Are Slowing Down**: teachers complain that the machines take 10 minutes to boot up.
+Chaque chapitre commence par une **courte histoire** qui contextualise le problème matériel, logiciel ou géopolitique.
 
-- **Chapter 3 – Trip to the Library**: For the library, the main need is for web browsing and word processing on aging PCs.
+## Mécaniques de jeu et Quiz
 
-- **Chapter 4 – Destination: The Basement**: Discovery of 12-year-old PCs stored in the basement, with the question, “Trash or Reuse?”
+À la fin de chaque histoire, l'utilisateur doit répondre à un **questionnaire à choix multiples** (généralement deux options).
 
-- **Chapter 5 – Across the Continent**: Reflection on European digital sovereignty and the use of local solutions versus American services.
+Les questions opposent, par exemple :
 
-Each chapter begins with a **short story** that contextualizes the hardware, software, or geopolitical problem.
+* "Tout jeter et acheter du neuf" vs "Installer un système d'exploitation léger basé sur Linux."
+* "Continuer à n'utiliser que des services américains" vs "Investir dans des solutions technologiques européennes."
 
-## Game Mechanics and Quizzes
+Des info-bulles pédagogiques expliquent l'impact des choix effectués, notamment le fait que le matériel est souvent encore bon, que c'est le logiciel qui est le facteur limitant, et que le passage à Linux peut prolonger la durée de vie des machines.
 
-At the end of each story, the user must answer a **multiple-choice questionnaire** (usually two options).
+Les réponses de l'utilisateur sont stockées puis utilisées pour calculer un score global de transition NIRD.
 
-The questions contrasted, for example:
+## Page de conclusion
 
-- “Throw everything away and buy new” vs. “Install a lightweight operating system based on Linux.”
+La page de **conclusion** affiche un "résumé de votre parcours" qui indique si l'établissement a réussi sa transition NIRD en fonction des réponses fournies.
 
-- “Continue using only American services” vs. “Invest in European technological solutions.”
+Si toutes les questions n'ont pas obtenu de réponse, un message indique que le parcours est incomplet et que le score ne peut pas être calculé, avec un lien pour retourner au début.
 
-Educational tooltips explain the impact of the choices, including: the hardware is often still good, it's the software that's the limiting factor, and switching to Linux can extend the lifespan of the machines.
+Cette approche ludifiée offre un retour clair sur l'impact des décisions de l'utilisateur, en accord avec les objectifs NIRD.
 
-The user's answers are stored and then used to calculate an overall NIRD transition score.
+## Messages NIRD promus par le site
 
-## Conclusion Page
+Le site met en avant plusieurs **principes clés** du numérique responsable :
 
-The **conclusion** page displays a “summary of your journey” that indicates whether the institution has successfully completed its NIRD transition based on the answers provided.
+* **Sobriété numérique** : éviter de remplacer systématiquement le matériel lorsqu'une solution logicielle (Linux léger, optimisation) peut prolonger sa durée de vie.
+* **Réemploi et reconditionnement** : redonner de la valeur aux vieux PC (bibliothèque, sous-sol, machines sans TPM) plutôt que de les envoyer directement à la déchetterie.
+* **Souveraineté numérique** : encourager l'utilisation de solutions européennes et de communs numériques pour réduire la dépendance aux grandes plateformes américaines.
 
-If all questions have not been answered, a message indicates that the journey is incomplete and that the score cannot be calculated, with a link to return to the beginning.
+La plateforme se veut être un **Kit de Démarrage NIRD** pour les écoles, sensibilisant les utilisateurs de manière ludique et interactive.
 
-This gamified approach provides clear feedback on the impact of the user's decisions, in line with the NIRD objectives.
+## Easter Eggs et Mode Rétro
 
-## NIRD Messages Promoted by the Site
+Pour renforcer l'aspect amusant, plusieurs **easter eggs** (fonctionnalités cachées) ont été intégrés :
 
-The site highlights several **key principles** of responsible digital practices:
+* Un **mode rétro** est caché sur la première page d'histoire : il s'active en tapant "retro" et modifie le style visuel pour évoquer les anciennes interfaces.
+* Un jeu **Snake** est caché sur la page d'accueil :
+* D'abord mentionné en tout petit texte.
+* Puis encore plus discrètement dans le pied de page (footer).
+* Enfin, réduit à un simple "pixel mort" cliquable pour lancer le jeu.
 
-- **Digital Sobriety**: avoid systematically replacing hardware when a software solution (lightweight Linux, optimization) can extend its lifespan.
 
-- **Reuse and Repurposing**: give value to old PCs (library, basement, machines without TPM) rather than sending them directly to the landfill.
 
-- **Digital Sovereignty**: encourage the use of European solutions and digital commons to reduce dependence on major American platforms.
+Ces éléments récompensent la curiosité des utilisateurs tout en faisant écho au thème des vieux PC et des interfaces vintage.
 
-The platform aims to be a **NIRD Starter Kit** for schools, raising user awareness in a fun and interactive way.
+## Page À Propos et Équipe
 
-## Easter Eggs and Retro Mode
+La page **À Propos** présente le contexte du projet (Nuit de l'Info 2025, Département Informatique, IUT de Paris – Rives de Seine) et la composition de l'équipe.
 
-To enhance the fun aspect, several **easter eggs** have been integrated:
-
-- A **retro mode** is hidden on the first history page: it is activated by typing "retro" and changes the visual style to evoke older interfaces.
-
-- A **Snake game** is hidden on the homepage:
-
-- First mentioned in very small text.
-
-- Then even more discreetly in the footer.
-
-- Finally, reduced to a simple clickable "dead pixel" to launch the game.
-
-These elements reward users' curiosity while echoing the theme of old PCs and vintage interfaces.
-
-## About Us Page and Team
-
-The **About Us** page presents the project's context (Nuit de l’Info 2025, Computer Science Department, IUT de Paris – Rives de Seine) and the team's composition.
-
-It reiterates the main mission: to provide an **educational tool** enabling schools to initiate or support a digital inclusion and resource development (NIRD) approach, with more eco-responsible, inclusive, and accessible digital technology.
+Elle rappelle la mission principale : fournir un **outil pédagogique** permettant aux écoles d'initier ou de soutenir une démarche d'inclusion numérique et de développement des ressources (NIRD), avec un numérique plus éco-responsable, inclusif et accessible.
