@@ -4,18 +4,18 @@
 
 Notre équipe **E-kalaga** est composée de 12 étudiants en première année de BUT Informatique à l'IUT de Paris – Rives de Seine.
 
-* [@aminaelhouari](https://github.com/aminaelhouari?utm_source=gemini)
-* [@la-tiags](https://github.com/la-tiags?utm_source=gemini)
-* [@eth3ral0](https://github.com/eth3ral0?utm_source=gemini)
-* [@Kenza-Mkd](https://github.com/Kenza-Mkd?utm_source=gemini)
-* [@sittinianeaditya-ai](https://github.com/sittinianeaditya-ai?utm_source=gemini)
-* [@ahmed-muhammad7](https://github.com/ahmed-muhammad7?utm_source=gemini)
-* [@leonorze](https://github.com/leonorze?utm_source=gemini)
+* [@aminaelhouari](https://github.com/aminaelhouari)
+* [@la-tiags](https://github.com/la-tiags)
+* [@eth3ral0](https://github.com/eth3ral0)
+* [@Kenza-Mkd](https://github.com/Kenza-Mkd)
+* [@s-tyty](https://github.com/s-tyty)
+* [@ahmed-muhammad7](https://github.com/ahmed-muhammad7)
+* [@leonorze](https://github.com/leonorze)
 * Hadja D.
 * Yassa A.
 * Yanis T.
-* [@O-Amine](https://github.com/O-Amine?utm_source=gemini)
-* [@EdanPL](https://github.com/EdanPL?utm_source=gemini)
+* [@O-Amine](https://github.com/O-Amine)
+* [@EdanPL](https://github.com/EdanPL)
 
 Dans le cadre de la **Nuit de l'Info 2025**, nous avons développé une plateforme web ludique pour sensibiliser les écoles au **Numérique Inclusif, Responsable et Durable (NIRD)**.
 
