@@ -17,7 +17,7 @@ Notre équipe **E-kalaga** est composée de 12 étudiants en première année de
 * [@O-Amine](https://github.com/O-Amine?utm_source=gemini)
 * [@EdanPL](https://github.com/EdanPL?utm_source=gemini)
 
-Dans le cadre de la **Nuit de l'Info 2025**, nous avons développé une plateforme web ludique pour sensibiliser les écoles au numérique **Inclusif, Responsable et Durable (NIRD)**.
+Dans le cadre de la **Nuit de l'Info 2025**, nous avons développé une plateforme web ludique pour sensibiliser les écoles au **Numérique Inclusif, Responsable et Durable (NIRD)**.
 
 ## Concept général du site
 
